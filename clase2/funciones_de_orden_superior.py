@@ -11,7 +11,7 @@ def cubo(x):
 
 numeros = [1,2,3,4]
 
-#map devuelve un resultado, por eso devemos alojar lo devuelto en una variable, o como en ete caso usarlo en un print
+#map devuelve un resultado, por eso devemos alojar lo devuelto en una variable, o como en este caso usarlo en un print
 print(list(map(cuadrado, numeros)))
 
 #------------------------------------------------------------------------------

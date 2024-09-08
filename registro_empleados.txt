@@ -1,0 +1,2 @@
+Ingreso - Nombre: alan, Hora: Sun Sep  8 19:10:36 2024
+Egreso - Nombre: alan, Hora: Sun Sep  8 19:11:21 2024
